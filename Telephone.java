@@ -24,6 +24,11 @@ class Telephone
   {
    amt = 300*2;
    total = amt+150;}
+    else if (calls == 500)
+  {
+   amt = 500*2-300;
+   total = amt+150;}
+ }
   }
    void display()
    {
