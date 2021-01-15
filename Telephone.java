@@ -29,7 +29,7 @@ class Telephone
    amt = 500*2-300;
    total = amt+150;}
  }
-  }
+
    void display()
    {
     System.out.println("The name of customer is"+name);
